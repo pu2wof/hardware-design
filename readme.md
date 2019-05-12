@@ -1,0 +1,2 @@
+# This repository contains various CAD engineering models for hardware components.
+These components may be Ducklink enclosure designs, drone mechanisms, or other materials generally used for prototyping and 3D printing.
